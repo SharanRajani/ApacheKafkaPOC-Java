@@ -1,7 +1,7 @@
 # Apache Kafka Producer and Consumer which uses Avro Serialization written in Java.
 
 
-Steps for execution:
+Steps for execution and corresponding explanation:
 
 1. Download Confluent Open Source from https://www.confluent.io/download/ (Tested on v5.0).
 2. Extract it and inside the directory, run the following command: bin/confluent start
