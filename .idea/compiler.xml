@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="ApacheKafkaPOC" />
+        <module name="com.exadatum.KafkaPOC" />
       </profile>
     </annotationProcessing>
   </component>
